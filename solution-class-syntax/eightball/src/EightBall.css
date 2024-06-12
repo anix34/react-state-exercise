@@ -1,0 +1,17 @@
+.Eightball {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    height: 300px;
+    width: 300px;
+    
+}
+
+.Eightball-resetBtn {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
